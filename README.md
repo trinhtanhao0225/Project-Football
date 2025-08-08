@@ -1,5 +1,5 @@
-## Project detect object and classifier 
-# Use YOLO, cv2
-# Interpolate the ball 
-# Ball control time
-# The player is holding the ball
+# Project detect object and classifier 
+## _ Use YOLO, cv2
+## _ Interpolate the ball 
+## _ Ball control time
+## _ The player is holding the ball

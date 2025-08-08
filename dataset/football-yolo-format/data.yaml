@@ -1,0 +1,5 @@
+train: C:/Users/Public/Documents/Football_Project/dataset/football-yolo-format/train/images
+val: C:/Users/Public/Documents/Football_Project/dataset/football-yolo-format/valid/images
+
+nc: 4
+names: ['ball','goalkeeper', 'player', 'referee']
